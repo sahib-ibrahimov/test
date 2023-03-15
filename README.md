@@ -5,3 +5,4 @@ Vusal
 Natiq
 vusal
 Akbar
+Fariz
